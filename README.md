@@ -1,6 +1,6 @@
 # master-ms-python-lt
 
-Proyecto del Master en microservicios con Python prueba
+Proyecto del Master en microservicios con Python
 
 ## Description
 
